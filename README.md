@@ -1,7 +1,7 @@
-
+### 👋 Hi there 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinaWidz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi there 
+- :blonde_woman: I'm Karolina 
 - 🌱 I’m currently learning Kotlin, Android, Testing
 
 <!--
