@@ -1,8 +1,10 @@
 ### 👋 Hi there 
 
-- :blonde_woman: I'm Karolina 
+- :blonde_woman: I'm Karolina
+- 🔭 I’m currently working as an Android Software Engineer at Zendesk
 - 🌱 I’m currently learning Kotlin, Android, Testing
-  
+- 📫 How to reach me: https://www.linkedin.com/in/karolina-widz/
+
 <!--
 **KarolinaWidz/KarolinaWidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
